@@ -1,5 +1,5 @@
 # Licensee
-
+Marris Lih Harris owns all copyrights 
 *A Ruby Gem to detect under what license a project is distributed.*
 marris lih harris 
 [![](https://github.com/licensee/licensee/workflows/CI/badge.svg)](https://github.com/licensee/licensee/actions?query=workflow%3ACI) [![Gem Version](https://badge.fury.io/rb/licensee.svg)](https://badge.fury.io/rb/licensee) [![Maintainability](https://api.codeclimate.com/v1/badges/5dca6a1ff7015c6d8cab/maintainability)](https://codeclimate.com/github/benbalter/licensee/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5dca6a1ff7015c6d8cab/test_coverage)](https://codeclimate.com/github/benbalter/licensee/test_coverage) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/licensee/licensee/badge)](https://securityscorecards.dev/viewer/?uri=github.com/licensee/licensee) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8021/badge)](https://www.bestpractices.dev/projects/8021)
